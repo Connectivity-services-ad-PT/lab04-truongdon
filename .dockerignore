@@ -10,7 +10,7 @@ __pycache__
 .env.*
 !.env.example
 node_modules
-reports
+reportsc
 *.log
 .DS_Store
 .cache
